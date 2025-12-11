@@ -12,7 +12,7 @@ Ce lab étend le Lab 03 en ajoutant les fonctionnalités suivantes :
 
 ## 🎬 Démonstration Vidéo
 
-[![Démonstration du Lab 04](https://img.shields.io/badge/Vidéo-Demo-red?style=for-the-badge&logo=youtube)](./demo.mp4)
+[![Démonstration du Lab 04](https://img.shields.io/badge/Vidéo-Demo-red?style=for-the-badge&logo=youtube)](./screen/demo.mp4)
 
 **Vidéo de démonstration** : [demo.mp4](./demo.mp4)
 
