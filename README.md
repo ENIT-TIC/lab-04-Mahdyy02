@@ -14,7 +14,7 @@ Ce lab étend le Lab 03 en ajoutant les fonctionnalités suivantes :
 
 [![Démonstration du Lab 04](https://img.shields.io/badge/Vidéo-Demo-red?style=for-the-badge&logo=youtube)](./screen/demo.mp4)
 
-**Vidéo de démonstration** : [demo.mp4](./demo.mp4)
+**Vidéo de démonstration** : [/screen/demo.mp4](./screen/demo.mp4)
 
 La vidéo montre :
 - Le démarrage des conteneurs avec Docker Compose
