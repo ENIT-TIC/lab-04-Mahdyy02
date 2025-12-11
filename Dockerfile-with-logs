@@ -37,4 +37,4 @@ ENV FLASK_ENV=production
 VOLUME ["/app/logs"]
 
 # Exécuter l'application
-CMD ["python", "app.py"]
+CMD ["python", "app_with_logging.py"]
